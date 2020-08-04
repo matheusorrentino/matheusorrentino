@@ -3,8 +3,11 @@
 < I love programming and the first language I learned was Python 🐍, which I fell in love with, and I study it until today. />
 
 < Some mottos that I take to my life: />
+
 < 1️⃣ Giving up is never an option. 💪/>
+
 < 2️⃣ Think, reflect and act 🧠/>
+
 < 3️⃣ Organization gives you time 🕒>
 
 
