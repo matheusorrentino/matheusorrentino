@@ -19,6 +19,7 @@
 < Well, about what I can collaborate on projects, I tell you that in everything, as long as there is time for me to familiarize myself with the technologies and languages ​​that will be used. I will always do my best to achieve my goals and those of my team!  />
 
 < I am open to learning and teaching, if necessary. 📚/>
+
 < If you notice that I know something that you are having trouble learning, contact me on my social networks and I will try to help you in the best way I can! />
 
 < Let's build a more friendly and collaborative community! 🌱/>
