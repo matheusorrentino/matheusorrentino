@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**matheusorrentino/matheusorrentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. !-->
 < Hi, my name is Matheus Sorrentino, i'm currently seventeen. />
 < I love programming and the first language I learned was Python 🐍, which I fell in love with, and I study it until today. />
 
