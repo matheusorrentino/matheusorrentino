@@ -18,6 +18,7 @@
 
 < I am open to learning and teaching, if necessary. 📚/>
 < If you notice that I know something that you are having trouble learning, contact me on my social networks and I will try to help you in the best way I can! />
+
 < Let's build a more friendly and collaborative community! 🌱/>
 
 <Contacts: />
