@@ -1,6 +1,6 @@
 
 <br/>< Hi, my name is Matheus Sorrentino, i'm currently seventeen. />
-<br/>< I love programming and the first language I learned was Python 🐍, which I fell in love with, and I study it until today. />
+<br/><br/>< I love programming and the first language I learned was Python 🐍, which I fell in love with, and I study it until today. />
 <br/>< Some mottos that I take to my life: />
 <br/>< 1️⃣ Giving up is never an option. 💪/>
 <br/>< 2️⃣ Think, reflect and act 🧠/>
